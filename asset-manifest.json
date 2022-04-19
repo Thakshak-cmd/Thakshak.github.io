@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Thakshak.github.io/static/css/main.d540719d.css",
+    "main.js": "/Thakshak.github.io/static/js/main.b7fd7975.js",
+    "static/media/me.png": "/Thakshak.github.io/static/media/me.3cc580810d7329e978d9.png",
+    "static/media/about-me.png": "/Thakshak.github.io/static/media/about-me.8346a186b1f10370d53d.png",
+    "static/media/cv.pdf": "/Thakshak.github.io/static/media/cv.5d7dcb9602a78c72a896.pdf",
+    "static/media/idk.png": "/Thakshak.github.io/static/media/idk.e43d86e1839d5cdb48a6.png",
+    "index.html": "/Thakshak.github.io/index.html",
+    "main.d540719d.css.map": "/Thakshak.github.io/static/css/main.d540719d.css.map",
+    "main.b7fd7975.js.map": "/Thakshak.github.io/static/js/main.b7fd7975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d540719d.css",
+    "static/js/main.b7fd7975.js"
+  ]
+}
